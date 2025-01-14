@@ -1,0 +1,10 @@
+[font]
+normal = { family = "MesloLGS NF", style = "Regular" }
+
+size = 16
+
+[keyboard]
+bindings = [
+  # Forbidden Quit Alacritty
+  # { key = "w", mods = "Command", mode = "AppCursor|AppKeyboard|Search|Alt|Vi", command = "" }
+]
